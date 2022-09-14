@@ -12,7 +12,7 @@ TODO: Add meetup page link: Join the `Harness User Group on Meetup.com <https://
 Previous presentations
 ======================
 
-Slides and videos for previous presentations can be found in presentations_ folder. {TODO
+Slides and videos for previous presentations can be found in presentations_ folder. {TODO}
 
 Presentation topics
 ===================
